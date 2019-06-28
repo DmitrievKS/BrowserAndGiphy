@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BrowserAndGiphy</string>
+
+    <string name="search_hint">Gif theme</string>
+    <string name="menu_search">Поиск</string>
+</resources>
+
